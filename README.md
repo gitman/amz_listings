@@ -1,2 +1,7 @@
-# amz_listings
+# Amazon Listings
+
 Amazon Listings
+
+# Usage
+
+./amz_listings.rb
