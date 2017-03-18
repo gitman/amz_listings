@@ -1,0 +1,24 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ansi (1.5.0)
+    ast (2.3.0)
+    mp3info (0.8.5)
+      ruby-mp3info (>= 0.8.5)
+    oga (2.9)
+      ast
+      ruby-ll (~> 2.1)
+    ruby-ll (2.1.2)
+      ansi
+      ast
+    ruby-mp3info (0.8.10)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mp3info
+  oga
+
+BUNDLED WITH
+   1.14.6
