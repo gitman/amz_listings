@@ -1,4 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'mp3info'
-gem 'oga'
+gem 'mechanize' # http://docs.seattlerb.org/mechanize/Mechanize.html
